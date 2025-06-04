@@ -11,6 +11,12 @@ The dashboard is organized into four pages:
 3. **Team Defensive Stats** – Analysis of clean sheets, goals conceded, and defensive performance.
 4. **Individual Player Stats** – Key contributions by players, including goals, assists, and top performers.
 
+---
+
+![Dashboard Preview](premScreenshot_Attacking.png)
+
+---
+
 ## 🛠 Tools & Technologies
 
 - **Power BI** – Interactive dashboard creation and data modeling
