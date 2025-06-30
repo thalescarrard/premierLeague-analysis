@@ -13,6 +13,8 @@ The dashboard is organized into four pages:
 
 ##
 
+![Dashboard Preview](premScreenshot_General.png)
+
 ![Dashboard Preview](premScreenshot_Attackingv2.png)
 
 ##
